@@ -1,0 +1,6 @@
+.idea
+.vscode
+src
+node_modules/
+package-lock.json
+index.ts
