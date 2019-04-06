@@ -1,6 +1,6 @@
 {
   "name": "@nestrx/twilio",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Twilio api Users and OTP for NestJs framework.",
   "author": "zinzinday@gmail.com",
   "repository": "https://github.com/nestrx/twilio.git",
